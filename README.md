@@ -23,7 +23,6 @@ These are the key highlights of my journey in competitive programming:
 
 ---
 
-## 🧑‍💻 Tech Stack:
 
 <h3 align="left"><img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" height="30" width ="30"> TECH STACK: </h3>
 <p align="center"> 
