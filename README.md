@@ -1,5 +1,6 @@
 ## Hi there 👋
-![LeetCode Stats](https://leetcard.jacoblin.cool/Balaji_06?theme=light&font=source_sans_pro)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Balaji_06?theme=dark&font=source_sans_pro)
+
 
 <!--
 **Balaji208/Balaji208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
