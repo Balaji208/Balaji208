@@ -13,7 +13,7 @@ Here’s an overview of my competitive programming stats and achievements, all i
 These are the key highlights of my journey in competitive programming:
 
 - **LeetCode**:
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Balaji_06?theme=dark&font=source_code_pro)
+  ![LeetCode Stats Animated](https://leetcode-badge-showcase.vercel.app/api?username=Balaji_06&theme=dark&border=border&animated=true)
 
 - **GeeksforGeeks**:
   ![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
@@ -23,7 +23,15 @@ These are the key highlights of my journey in competitive programming:
 
 ---
 
-### 🔢 Problem Solving Count
-I’m proud to share my cumulative problem-solving count across platforms:
-```plaintext
-Codolio Problem Count: <your_problem_count>
+## 🌐 Connect with Me
+
+Feel free to check out my competitive programming profiles and connect:
+
+- **GitHub**: [Codezillea](https://github.com/Codezillea)
+- **Codolio**: [Codolio Profile](https://codolio.com/@balaji@_17)
+- **LeetCode**: [LeetCode Profile](https://leetcode.com/Balaji_06)
+- **GeeksforGeeks**: [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/<your_gfg_username>/)
+
+---
+
+### 💬 Let’s solve more problems and grow together!
