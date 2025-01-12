@@ -78,6 +78,8 @@ Feel free to check out my competitive programming profiles and connect:
 - **Codolio**: [Codolio Profile](https://codolio.com/@balaji@_17)
 - **LeetCode**: [LeetCode Profile](https://leetcode.com/Balaji_06)
 - **GeeksforGeeks**: [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/balajijayakumar777/)
+- **CodeChef**: [CodeChef Profile](https://codechef.com/users/balaji614)
+- **Coding Ninjas**: [Coding Ninjas Profile](https://www.naukri.com/code360/profile/b3b8d5dd-6ede-4c92-a12d-a98f601d3128)
 
 ---
 
