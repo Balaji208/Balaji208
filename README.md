@@ -1,24 +1,29 @@
-# Hi there 👋
+# Hi there! 👋 I'm Sri Balaji J
 
-## About Me
-- 🌱 I love solving problems and exploring new technologies.
-- 💻 Competitive Programmer on platforms like LeetCode, Codeforces, and CodeChef.
+## 🏆 My Competitive Programming Achievements
 
-## Competitive Programming Showcase
-[![Codolio Profile](https://api.codolio.com/profile?username=YOUR_USERNAME)](https://codolio.com/YOUR_USERNAME)
+### 📊 Codolio Stats
+Here’s an overview of my competitive programming stats and achievements, all integrated via [Codolio](https://codolio.com):
 
-## My CP Stats
-<img src="https://api.codolio.com/stats?username=YOUR_USERNAME" alt="Codolio Stats" />
+![Codolio Stats](https://codolio.com/api/profile-stats/@balaji@_17?theme=dark&style=card)
 
-## Achievements
-- 🏆 Codeforces: Candidate Master
-- 🥇 LeetCode: 500+ problems solved
-- 🏅 CodeChef: 5⭐ Rating
+---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+### 🥇 Badges & Milestones
+These are the key highlights of my journey in competitive programming:
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sri-balaji-j-710502259)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Balaji_06/)
+- **LeetCode**:
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Balaji_06?theme=dark&font=source_code_pro)
+
+- **GeeksforGeeks**:
+  ![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
+- **HackerRank**:
+  ![HackerRank Profile](https://img.shields.io/badge/HackerRank-Badge-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+---
+
+### 🔢 Problem Solving Count
+I’m proud to share my cumulative problem-solving count across platforms:
+```plaintext
+Codolio Problem Count: <your_problem_count>
