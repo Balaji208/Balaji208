@@ -72,7 +72,7 @@ These are the key highlights of my journey in competitive programming:
 
 ## 🌐 Connect with Me
 - **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/sri-balaji-j-710502259)
-# Feel free to check out my competitive programming profiles and connect:
+### Feel free to check out my competitive programming profiles and connect:
 
 - **GitHub**: [Codezillea](https://github.com/Balaji208)
 - **Codolio**: [Codolio Profile](https://codolio.com/@balaji@_17)
