@@ -31,7 +31,6 @@ These are the key highlights of my journey in competitive programming:
 
 ---
 
-## 🧰 TECH STACK
 
 <h3 align="left"><img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" height="30" width="30"> My Tools and Technologies: </h3>
 <p align="center">
