@@ -1,18 +1,13 @@
-## Hi there 👋
-![LeetCode Stats](https://leetcard.jacoblin.cool/Balaji_06?theme=dark&font=source_sans_pro)
+# Hi there 👋
 
+## About Me
+- 🌱 I love solving problems and exploring new technologies.
+- 💻 Competitive Programmer on platforms like LeetCode, Codeforces, and CodeChef.
 
-<!--
-**Balaji208/Balaji208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Competitive Programming Showcase
+[![Codolio Showcase](https://codolio.io/embed/your_codolio_username)](https://codolio.io/your_codolio_username)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Achievements
+- 🏆 Codeforces: Candidate Master
+- 🥇 LeetCode: 500+ problems solved
+- 🏅 CodeChef: 5⭐ Rating
